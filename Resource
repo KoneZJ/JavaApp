@@ -1,0 +1,2 @@
+http://geek.csdn.net/news/detail/59847
+解决大并发读问题采用Localcache和数据的分层校验的方式
